@@ -844,7 +844,7 @@ local function createGUIElements()
     Search.Position = UDim2.new(0.0677966103, 0, 0)
     Search.Size = UDim2.new(0.864406765, 0, 0.81578958, 0)
     Search.Font = Enum.Font.SourceSansBold
-    Search.PlaceholderText = "Search/ID"
+    Search.PlaceholderText = "搜索/ID"
     Search.Text = ""
     Search.TextColor3 = Color3.fromRGB(255, 255, 255)
     Search.TextScaled = true
