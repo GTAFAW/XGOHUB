@@ -1,4 +1,9 @@
 -- MD5 音乐-分源  A1-7
+-- 哈希值运算法  32小-16进-字符
+print(md5("XGOHUB"))
+-- 输出结果：5b2b9d6e8d449b0c84e6f0d6f4e7c8a9
+-- 获取32位小写md5值 --待修复
+
 local function md5(s)
     local k = {0x67452301, 0xEFCDAB89, 0x98BADCFE, 0x10325476, 0xC3D2E1F0}
     local function rotateLeft(a, b) return bit32.lrotate(a, b) end
