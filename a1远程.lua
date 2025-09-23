@@ -5,6 +5,16 @@
       "Tip": "DOORS 脚本",
       "url": "https://raw.githubusercontent.com/notzanocoddz4/bobdoors/main/main.lua"
     },
+    {
+      "title": "MS",
+      "content": "",
+      "url": "https://www.msdoors.xyz/script"
+    },
+    {
+      "title": " ",
+      "content": " ",
+      "url": " "
+    },
     { "import": "translator" },
     { "import": "qq" }
     ],
@@ -19,6 +29,22 @@
       "title": "博仁",
       "Tip": "",
       "url": "https://raw.githubusercontent.com/eikikrkr-ux/bypasok/refs/heads/main/ok"
+    },
+    {
+      "title": "喵猫",
+      "Tip": "",
+      "url": "https://pastefy.app/aydQLtib/raw"
+    },
+    {
+      "title": "Moonlight Hub",
+      "Tip": "",
+      "content": " ",
+      "url": "https://api.junkie-development.de/api/v1/luascripts/public/69fec2dbe9278f177f8b6cf9dc39737234ee4c6627f304a4d027a7f83c46ced8/download"
+    },
+    {
+      "title": " ",
+      "content": " ",
+      "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
@@ -42,9 +68,24 @@
       "url": "https://pastefy.app/gU1VDDWt/raw"
     },
     {
+      "title": "chilli Hub",
+      "content": " ",
+      "url": "https://pastebin.com/raw/B6E5gxXi"
+    },
+    {
       "title": "辣椒脚本",
       "content": "",
       "url": "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"
+    },
+    {
+      "title": "1",
+      "content": " ",
+      "url": "https://api.luarmor.net/files/v3/loaders/5cbfadfea337c7a00d249edd9dd6b270.lua"
+    },
+    {
+      "title": " ",
+      "content": " ",
+      "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
@@ -61,13 +102,28 @@
       "url": "https://raw.githubusercontent.com/plutoguy/plutonium/refs/heads/main/script.lua"
     },
     {
+      "title": "复制冥王星卡密",
+      "content": "卡密：stealapluto378",
+      "url": "local km='stealapluto378';setclipboard(km)"
+    },
+    {
       "title": "AXS-HUB",
       "url": "https://raw.githubusercontent.com/AXS-Main/AXS-Script/refs/heads/main/AXS-HUB/Main/Loader"
     },
     {
-      "title": "复制冥王星卡密",
-      "content": "卡密：stealapluto378",
-      "url": "local km='stealapluto378';setclipboard(km)"
+      "title": "LightHub",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/Filipp947/LightHub/refs/heads/main/99nightsintheforestloader.lua"
+    },
+    {
+      "title": "VEX",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/yoursvexyyy/VEX-OP/refs/heads/main/99%20nights%20in%20the%20forest%20premium"
+    },
+    {
+      "title": " ",
+      "content": " ",
+      "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
@@ -79,6 +135,11 @@
       "Tip": "建造一架飞机 脚本",
       "url": "https://raw.githubusercontent.com/AXS-HUB2/AXS-ScriptS/refs/heads/main/AXS-HUB/Main/Loader"
     },
+    {
+      "title": " ",
+      "content": " ",
+      "url": " "
+    },
     { "import": "translator" },
     { "import": "qq" }
     ],
@@ -88,6 +149,11 @@
       "title": "建造坦克刷钱脚本",
       "Tip": "建造坦克 脚本",
       "url": "https://github.com/GTAFAW/-game/raw/main/建造坦克.lua"
+    },
+    {
+      "title": " ",
+      "content": " ",
+      "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
@@ -146,52 +212,112 @@
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
     ],
   
-    "": [
+    "3623096087": [
     {
-      "title": " ",
-      "Tip": " 脚本",
-      "url": " "
+      "title": "speed Hub",
+      "Tip": "力量传奇 脚本",
+      "url": "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Muscle%20Legends.lua"
+    },
+    {
+      "title": "ML V1 | Tokattk",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/2581235867/21/refs/heads/main/By%20Tokattk"
+    },
+    {
+      "title": "SPACE HUB",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/Moha-space/SPACE-HUB-/refs/heads/main/SPACE%20HUB"
+    },
+    {
+      "title": "Lunar Hub",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/LunarXHub/Lunar-Hub/refs/heads/main/Games/Muscle%20Legends.Lua"
+    },
+    {
+      "title": "AX HUB",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/W4ttziez/Muscle-Legends/main/AX%20HUB.lua"
+    },
+    {
+      "title": "复制卡密 ↑ [AX HUB]",
+      "content": "卡密：404notaSkid",
+      "url": "local km='404notaSkid';setclipboard(km)"
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
     ],
   
-    "": [
+    "3101667897": [
     {
-      "title": " ",
-      "Tip": " 脚本",
-      "url": " "
+      "title": "脚本[1]",
+      "Tip": "极速传奇 脚本",
+      "url": "https://pastefy.app/cJFuf6Vc/raw"
+    },
+    {
+      "title": "静默",
+      "content": "",
+      "url": "https://pastefy.app/bp8fNJ0S/raw"
+    },
+    {
+      "title": "StarsKys Hub",
+      "content": "",
+      "url": "https://pandadevelopment.net/virtual/file/ede4bb24b2917d28"
+    },
+    {
+      "title": "秒速[娱乐]",
+      "content": "",
+      "url": "https://github.com/GTAFAW/XGOHUB/raw/main/极速传奇秒速.lua"
+    },
+    {
+      "title": "KAYLAR HUB",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/hdhjvcfik/KAYLAR_HUB-/refs/heads/main/LegendsOfSpeed.lua"
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
     ],
   
-    "": [
+    "3956818381": [
     {
-      "title": " ",
-      "Tip": " 脚本",
-      "url": " "
+      "title": "XGOHUB",
+      "Tip": "忍者传奇 脚本",
+      "url": "https://github.com/GTAFAW/XGOHUB/raw/main/忍者传奇.lua"
+    },
+    {
+      "title": "Luminary Hub",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/wrestonbest/Luminary-2025/refs/heads/main/Scripts/Ninja%20Legends.lua"
+    },
+    {
+      "title": "Project-Madara",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/IsThisMe01/Project-Madara/refs/heads/main/loader.lua"
+    },
+    {
+      "title": "获取元素",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/AppleScript001/Get_Element_All/main/README.md"
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
