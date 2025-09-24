@@ -1,0 +1,21 @@
+{
+  "Menu": "菜单",
+  "Settings": "设置",
+  "Inventory": "背包",
+  "Health": "生命值",
+  "Mana": "魔法值",
+  "Attack": "攻击",
+  "Defense": "防御",
+  "Quit": "退出",
+  "Save": "保存",
+  "Load": "加载",
+  "Welcome": "欢迎",
+  "Game Over": "游戏结束",
+  "Auto Chop Trees": "自动砍树",
+  "Anti AFK": "防挂机",
+  "Medkit": "医疗包",
+  "Teleport to Camp": "传送到营地",
+  "HUB": "枢纽",
+  "ESP": "透视",
+  "Close Window": "关闭窗口"
+}
