@@ -31,6 +31,11 @@
       "url": "https://raw.githubusercontent.com/eikikrkr-ux/bypasok/refs/heads/main/ok"
     },
     {
+      "title": "Owl Hook",
+      "content": "",
+      "url": "https://rawscripts.net/raw/SKY-SQUID-GAMES-Ink-Game-Owl-Hook-OP-48138"
+    },
+    {
       "title": "喵猫",
       "Tip": "",
       "url": "https://pastefy.app/aydQLtib/raw"
@@ -43,7 +48,7 @@
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
@@ -121,8 +126,23 @@
       "url": "https://raw.githubusercontent.com/yoursvexyyy/VEX-OP/refs/heads/main/99%20nights%20in%20the%20forest%20premium"
     },
     {
+      "title": "Spolarium Hub",
+      "content": "",
+      "url": "https://pastefy.app/XRlYu676/raw"
+    },
+    {
+      "title": "DarkEsc Hub v1.02",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/DarkenedEssence/DarkEsc/refs/heads/main/Loader.lua"
+    },
+    {
+      "title": "RINGTA",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/wefwef127382/99daysloader.github.io/refs/heads/main/ringta.lua"
+    },
+    {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
@@ -286,6 +306,15 @@
       "url": "https://raw.githubusercontent.com/hdhjvcfik/KAYLAR_HUB-/refs/heads/main/LegendsOfSpeed.lua"
     },
     {
+      "title": "Luna Hub",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/Hva72bk0a140/Luna-Hub-Script/refs/heads/main/Loader"
+    },
+    {
+      "title": "复制卡密 ↑ [Luna Hub]",
+      "content": "卡密：UnoXLuna",
+      "url": "local km='UnoXLuna';setclipboard(km)"
+    {
       "title": " ",
       "content": "",
       "url": " "
@@ -324,15 +353,15 @@
     { "import": "qq" }
     ],
   
-    "": [
+    "87188889493383": [
     {
-      "title": " ",
-      "Tip": " 脚本",
-      "url": " "
+      "title": "脚本",
+      "Tip": "Blox 战利品 脚本",
+      "url": "https://github.com/S1mpleXDev/5-Min-Projects/raw/refs/heads/main/%5BV3%5D%20Blox%20Loot%20part%202"
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
