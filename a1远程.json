@@ -47,6 +47,11 @@
       "url": "https://api.junkie-development.de/api/v1/luascripts/public/69fec2dbe9278f177f8b6cf9dc39737234ee4c6627f304a4d027a7f83c46ced8/download"
     },
     {
+      "title": "脚本[1]",
+      "content": "",
+      "url": "https://pastebin.com/raw/z4p8e2B6"
+    },
+    {
       "title": " ",
       "content": "",
       "url": " "
@@ -98,8 +103,13 @@
 
     "126509999114328,79546208627805": [
     {
+      "title": "CpsHub",
+      "content": "在森林中的99夜 脚本",
+      "url": "https://raw.githubusercontent.com/Rx1m/CpsHub/refs/heads/main/Hub"
+    },
+    {
       "title": "虚空",
-      "Tip": "在森林中的99夜 脚本",
+      "Tip": "",
       "url": "https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua"
     },
     {
@@ -251,24 +261,9 @@
       "url": "https://raw.githubusercontent.com/2581235867/21/refs/heads/main/By%20Tokattk"
     },
     {
-      "title": "SPACE HUB",
-      "content": "",
-      "url": "https://raw.githubusercontent.com/Moha-space/SPACE-HUB-/refs/heads/main/SPACE%20HUB"
-    },
-    {
       "title": "Lunar Hub",
       "content": "",
       "url": "https://raw.githubusercontent.com/LunarXHub/Lunar-Hub/refs/heads/main/Games/Muscle%20Legends.Lua"
-    },
-    {
-      "title": "AX HUB",
-      "content": "",
-      "url": "https://raw.githubusercontent.com/W4ttziez/Muscle-Legends/main/AX%20HUB.lua"
-    },
-    {
-      "title": "复制卡密 ↑ [AX HUB]",
-      "content": "卡密：404notaSkid",
-      "url": "local km='404notaSkid';setclipboard(km)"
     },
     {
       "title": " ",
@@ -369,30 +364,50 @@
     { "import": "qq" }
     ],
   
-    "": [
+    "127742093697776": [
     {
-      "title": " ",
-      "Tip": " 脚本",
-      "url": " "
+      "title": "脚本[1]",
+      "Tip": "植物vs大脑机器人 脚本",
+      "url": "https://goldenmoonvm.onrender.com/api/machineinit/a069b94c207a92cba44d0a6994b47ecbb70bdcdee81dc8961da7dbe6c5df79a9"
+    },
+    {
+      "title": "NexorHub",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/NexorHub/Games/refs/heads/main/Universal/Scripts.lua"
+    },
+    {
+      "title": "ReyHub",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/javi-esp/ReyHubOnTop/main/plantsvsbrainrots.lua"
+    },
+    {
+      "title": "冥王星",
+      "content": "stealapluto378",
+      "url": "https://raw.githubusercontent.com/plutoguy/plutonium/refs/heads/main/script.lua"
+    },
+    {
+      "title": "脚本[2]",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/marcelosero7-cyber/Plantsvsbrainrotalgol/refs/heads/main/Protected_6351279290059061.lua.txt"
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
     { "import": "qq" }
     ],
   
-     "": [
+     "119048529960596": [
     {
-      "title": " ",
-      "Tip": " 脚本",
-      "url": " "
+      "title": "脚本[1]",
+      "Tip": "餐厅大亨3 脚本",
+      "url": "https://raw.githubusercontent.com/yolobradda/RT3/refs/heads/main/loader.lua"
     },
     {
       "title": " ",
-      "content": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
