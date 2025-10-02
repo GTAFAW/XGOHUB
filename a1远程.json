@@ -131,6 +131,11 @@
       "url": "https://raw.githubusercontent.com/Filipp947/LightHub/refs/heads/main/99nightsintheforestloader.lua"
     },
     {
+      "title": "复制LightHub卡密",
+      "content": "卡密：lighthubontop",
+      "url": "local km='lighthubontop';setclipboard(km)"
+    },
+    {
       "title": "VEX",
       "content": "",
       "url": "https://raw.githubusercontent.com/yoursvexyyy/VEX-OP/refs/heads/main/99%20nights%20in%20the%20forest%20premium"
@@ -149,6 +154,11 @@
       "title": "RINGTA",
       "content": "",
       "url": "https://raw.githubusercontent.com/wefwef127382/99daysloader.github.io/refs/heads/main/ringta.lua"
+    },
+    {
+      "title": "bornhub",
+      "content": "",
+      "url": "https://raw.githubusercontent.com/eikikrkr-ux/99-Nights-in-the-forest-bornhub/refs/heads/main/okies"
     },
     {
       "title": " ",
@@ -366,27 +376,22 @@
   
     "127742093697776": [
     {
-      "title": "脚本[1]",
-      "Tip": "植物vs大脑机器人 脚本",
-      "url": "https://goldenmoonvm.onrender.com/api/machineinit/a069b94c207a92cba44d0a6994b47ecbb70bdcdee81dc8961da7dbe6c5df79a9"
-    },
-    {
-      "title": "NexorHub",
-      "content": "",
-      "url": "https://raw.githubusercontent.com/NexorHub/Games/refs/heads/main/Universal/Scripts.lua"
-    },
-    {
-      "title": "ReyHub",
-      "content": "",
-      "url": "https://raw.githubusercontent.com/javi-esp/ReyHubOnTop/main/plantsvsbrainrots.lua"
+      "title": "祝福中心",
+      "content": "植物vs大脑机器人 脚本",
+      "url": "https://raw.githubusercontent.com/mynamewendel-ctrl/Blessed-Hub-X-/refs/heads/main/Plants-Vs-Brainrots.lua"
     },
     {
       "title": "冥王星",
-      "content": "stealapluto378",
+      "content": "",
       "url": "https://raw.githubusercontent.com/plutoguy/plutonium/refs/heads/main/script.lua"
     },
     {
-      "title": "脚本[2]",
+      "title": "复制卡密 ↑ [冥王星]",
+      "content": "卡密：stealapluto378",
+      "url": "local km='stealapluto378';setclipboard(km)"
+    },
+    {
+      "title": "ALGOL HUB",
       "content": "",
       "url": "https://raw.githubusercontent.com/marcelosero7-cyber/Plantsvsbrainrotalgol/refs/heads/main/Protected_6351279290059061.lua.txt"
     },
