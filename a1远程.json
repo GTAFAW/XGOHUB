@@ -31,22 +31,6 @@
       "url": "https://raw.githubusercontent.com/eikikrkr-ux/bypasok/refs/heads/main/ok"
     },
     {
-      "title": "Owl Hook",
-      "content": "",
-      "url": "https://rawscripts.net/raw/SKY-SQUID-GAMES-Ink-Game-Owl-Hook-OP-48138"
-    },
-    {
-      "title": "喵猫",
-      "Tip": "",
-      "url": "https://pastefy.app/aydQLtib/raw"
-    },
-    {
-      "title": "Moonlight Hub",
-      "Tip": "",
-      "content": " ",
-      "url": "https://api.junkie-development.de/api/v1/luascripts/public/69fec2dbe9278f177f8b6cf9dc39737234ee4c6627f304a4d027a7f83c46ced8/download"
-    },
-    {
       "title": "脚本[1]",
       "content": "",
       "url": "https://pastebin.com/raw/z4p8e2B6"
@@ -78,23 +62,23 @@
       "url": "https://pastefy.app/gU1VDDWt/raw"
     },
     {
-      "title": "chilli Hub",
-      "content": " ",
-      "url": "https://pastebin.com/raw/B6E5gxXi"
-    },
-    {
       "title": "辣椒脚本",
       "content": "",
       "url": "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"
     },
     {
-      "title": "1",
+      "title": "脚本[1]",
       "content": " ",
       "url": "https://api.luarmor.net/files/v3/loaders/5cbfadfea337c7a00d249edd9dd6b270.lua"
     },
     {
-      "title": " ",
+      "title": "脚本[2]",
       "content": " ",
+      "url": "https://rifton.top/loader.lua"
+    },
+    {
+      "title": " ",
+      "content": "",
       "url": " "
     },
     { "import": "translator" },
@@ -171,9 +155,15 @@
 
     "137925884276740": [
     {
-      "title": "AXS-HUB",
+      "title": "Nova",
       "Tip": "建造一架飞机 脚本",
-      "url": "https://raw.githubusercontent.com/AXS-HUB2/AXS-ScriptS/refs/heads/main/AXS-HUB/Main/Loader"
+      "content": " ",
+      "url": "https://pandadevelopment.net/virtual/file/337bebc52a637154"
+    },
+    {
+      "title": "复制卡密 ↑ [Nova Hub]",
+      "content": "卡密：NovaHub7",
+      "url": "local km='NovaHub7';setclipboard(km)"
     },
     {
       "title": " ",
@@ -251,6 +241,11 @@
       "url": "https://pastefy.app/lQ9YE6yW/raw"
     },
     {
+      "title": "德菲兹",
+      "content": "",
+      "url": "https://gist.githubusercontent.com/Defy-cloud/3c32a682f795ecb53c7578d953d6578b/raw/6b5635519b8333ef960900110d4306af6d5487e3/Don't%2520Wake%2520The%2520Brainrots"
+    },
+    {
       "title": " ",
       "content": "",
       "url": " "
@@ -321,6 +316,11 @@
       "url": "local km='UnoXLuna';setclipboard(km)"
     },
     {
+      "title": "silentscripts",
+      "content": "",
+      "url": "https://github.com/GTAFAW/XGOHUB/raw/main/%E6%9E%81%E9%80%9F%E4%BC%A0%E5%A5%87.lua"
+    },
+    {
       "title": " ",
       "content": "",
       "url": " "
@@ -364,6 +364,11 @@
       "title": "脚本",
       "Tip": "Blox 战利品 脚本",
       "url": "https://github.com/S1mpleXDev/5-Min-Projects/raw/refs/heads/main/%5BV3%5D%20Blox%20Loot%20part%202"
+    },
+    {
+      "title": " ",
+      "content": "",
+      "url": "https://github.com/S1mpleXDev/5-Min-Projects/raw/refs/heads/main/%5BV4%5D%20Blox%20Loot"
     },
     {
       "title": " ",
